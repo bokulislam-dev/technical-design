@@ -1,0 +1,22 @@
+
+.menubar ul{
+    text-align: left;
+}
+
+.footer-box ul li{
+    padding-left: 0;
+    padding-right: 28px;
+}
+.footer-box ul li img{
+    left: inherit;
+    right: 0;
+}
+.service-text P{
+    padding-left: 0;
+    padding-right: 30px;
+    
+}
+.service-text p img{
+    left: inherit;
+    right: 0;
+}
